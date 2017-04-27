@@ -1,0 +1,18 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    color:rgb(111,159,0);
+    font-family: verdanna;
+    font-size: 300%;
+}
+p{
+    color:purple;
+    font-family: courier;
+    font-size: 150%
+    border: 1px solid;
+    padding: 20px
+}
+p.german{
+    color:red;
+}
